@@ -1,0 +1,48 @@
+
+`html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kuki's Cream Cheese</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff8f0;
+      color: #3e2c23;
+      text-align: center;
+      padding: 2em;
+    }
+    h1 {
+      font-size: 2.8em;
+      margin-bottom: 0.2em;
+    }
+    p {
+      font-size: 1.3em;
+      margin-bottom: 1.5em;
+    }
+    .whatsapp-button {
+      background-color: #25D366;
+      color: white;
+      padding: 1em 2em;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.2em;
+      text-decoration: none;
+    }
+    .whatsapp-button:hover {
+      background-color: #1ebc59;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kuki's Cream Cheese</h1>
+  <p>Especialistas en cremas de queso y delicias caseras. Encargos directos por WhatsApp.</p>
+  <a class="whatsapp-button" href="https://wa.me/535XXXXXXX?text=Hola%2C%20quiero%20hacer%20un%20encargo%20de%20crema%20de%20queso" target="_blank">
+    Hacer un encargo
+  </a>
+</body>
+</html>
+`
+
